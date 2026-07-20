@@ -24,9 +24,11 @@ Una herramienta avanzada y completamente portable para diagnosticar, monitorear 
 
 ```text
 Adware-scanner_v2.0.0/
-├── AScanner.exe       (Ejecutable principal)
-└── bin/                    (Directorio de motores externos)
-    ├── adb.exe
-    ├── scrcpy.exe
-    ├── scrcpy-server
-    └── [Resto de archivos .dll]
+├── backups/                (Carpeta generada para copias de seguridad)
+├── bin/                    (Directorio de motores externos: adb, scrcpy, dlls)
+├── AScanner.exe            (Ejecutable principal)
+├── exclusions.txt          (Lista de paquetes a ignorar)
+├── LICENSE                 (Licencia del proyecto)
+├── ota_packages.json       (Base de datos de actualizaciones OTA)
+├── README.md               (Archivo de documentación)
+└── threats.txt             (Lista de amenazas conocidas)
