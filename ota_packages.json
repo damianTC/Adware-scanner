@@ -1,0 +1,18 @@
+{
+    "samsung": [
+        "com.wssyncmldm", 
+        "com.sec.android.soagent"
+    ],
+    "xiaomi": [
+        "com.android.updater", 
+        "com.xiaomi.discover"
+    ],
+    "poco": [
+        "com.android.updater", 
+        "com.xiaomi.discover"
+    ],
+    "generic": [
+        "com.adups.fota", 
+        "com.adups.fota.sysoper"
+    ]
+}
