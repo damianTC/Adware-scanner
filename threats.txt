@@ -63,3 +63,23 @@ com.organize.clearflow
 
 # Detectado 2026-07-02
 com.aircleanda.adaoqebew
+
+com.osp.app.signin
+
+# Detectado 2026-09-17
+borrorhealthcare.store
+
+# Detectado 2026-09-17
+com.easy.fast.videodownloader
+
+# Detectado 2026-09-17
+com.bigtime.trash.cleaner
+
+# Detectado 2026-09-17
+com.securitytool.proxy
+
+# Detectado 2026-09-20
+com.gamma.scan
+
+# Android Developer Verifier
+com.google.android.verifier

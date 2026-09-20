@@ -49,4 +49,16 @@ com.motorola.mobiledesktop
 com.zhiliaoapp.musically
 com.android.stk
 co.aospa.dolb
+com.microsoft.bing
 # Añade aquí cualquier otro paquete que quieras ignorar
+org.oxycblt.auxio
+com.whatsapp
+com.facebook.katana
+com.microsoft.emmx
+com.revolut.revolut
+com.motorola.camera5
+mx.com.bancoazteca.bazdigitalmovil
+com.paypal.android.p2pmobile
+com.motorola.personalize
+com.payclip.clip
+com.brave.browser
