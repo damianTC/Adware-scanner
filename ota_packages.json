@@ -1,18 +1,21 @@
 {
     "samsung": [
-        "com.wssyncmldm", 
+        "com.wssyncmldm",
         "com.sec.android.soagent"
     ],
     "xiaomi": [
-        "com.android.updater", 
+        "com.android.updater",
         "com.xiaomi.discover"
     ],
     "poco": [
-        "com.android.updater", 
+        "com.android.updater",
         "com.xiaomi.discover"
     ],
     "generic": [
-        "com.adups.fota", 
+        "com.adups.fota",
         "com.adups.fota.sysoper"
+    ],
+    "motorola": [
+        "com.motorola.ccc.ota"
     ]
 }

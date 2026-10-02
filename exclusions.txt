@@ -62,3 +62,7 @@ com.paypal.android.p2pmobile
 com.motorola.personalize
 com.payclip.clip
 com.brave.browser
+com.motorola.ccc.ota
+
+app.revanced.android.youtube
+gob.bancodelbienestar.bcobienapp

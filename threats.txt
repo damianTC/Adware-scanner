@@ -1,34 +1,17 @@
-# Lista de paquetes de Adware/Bloatware para eliminar.
-# Añade un nombre de paquete por línea.
-# Las líneas que comienzan con # son comentarios y serán ignoradas.
+# Lista de paquetes de Adware para eliminar.
+# añade un nombre de paquete por linea
+# Las lineas que comienzan con # son comentarios y serán ignoradas.
 
-# --- EJEMPLOS ---
-# Reemplaza estos ejemplos con paquetes reales que identifiques.
-# com.example.fakeantivirus
-# com.cheetahmobile.cleanmaster
-# com.dianxinos.optimizer.duplay
-
-# --- Facebook (Ejemplo común de bloatware preinstalado) ---
-# com.facebook.katana
-# com.facebook.system
-# com.facebook.appmanager
-# com.facebook.services
-
-# --- Microsoft (Ejemplo común de bloatware preinstalado) ---
-# com.microsoft.skydrive
-# com.microsoft.office.word
-# com.microsoft.office.excel
-
-# Detectado automaticamente el 2025-09-28 13:18:43
+# Detectado 2025-09-28
 com.cleanzen.junkcleaning
 
-# Detectado automaticamente el 2025-09-28 13:19:01
+# Detectado 2025-09-28
 com.cleanspace.upclean
 
-# Detectado automaticamente el 2025-09-28 19:17:50
+# Detectado 2025-09-28
 desa.ttewsq.piiow.zzasdp
 
-# Detectado automaticamente el 2025-10-22 11:22:22
+# Detectado 2025-10-22
 com.ClearUp.cleanalls
 
 # Detectado 2025-12-08
@@ -82,4 +65,7 @@ com.securitytool.proxy
 com.gamma.scan
 
 # Android Developer Verifier
-com.google.android.verifier
+# com.google.android.verifier
+
+# Detectado 2026-09-25
+com.parbatstudio.ballsortfungame
