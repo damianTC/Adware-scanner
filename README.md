@@ -1,6 +1,7 @@
 # Android Adware Scanner
 Una herramienta avanzada y completamente portable para diagnosticar, monitorear y limpiar dispositivos Android de Adware y Bloatware a través de ADB. No requiere instalación de software adicional; simplemente descarga, extrae y ejecuta.
 
+![Captura de AScanner v3.0.0](https://github.com/damianTC/Adware-scanner/raw/main/res/Captura%20de%20pantalla%202026-09-20%20133153.png)
 ## Características Principales
 
 * **Portable y Ligero:** Ejecutable independiente (.exe) que no requiere tener Python instalado en tu sistema.
