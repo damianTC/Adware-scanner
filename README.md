@@ -22,7 +22,7 @@ Una herramienta avanzada y completamente portable para diagnosticar, monitorear 
 1. Descarga el archivo `.zip` adjunto en este release.
 2. Extrae todo el contenido en una sola carpeta.
 3. Asegúrate de que la carpeta `bin` (que incluye ADB, Scrcpy y el tutorial) y tus archivos de texto se encuentren junto a `AScanner.exe`.
-4. Ejecuta `AScanner.exe` para comenzar.Android 11+.
+4. Ejecuta `AScanner.exe` para comenzar.
 
 ## Requisitos Previos
 
